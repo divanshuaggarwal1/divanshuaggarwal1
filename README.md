@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divanshuaggarwal
+- 👋 Hi, I’m @ Divanshu Aggarwal
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JAVA
 - 📫 You Can reach me on linkedln https://www.linkedin.com/in/divanshu-aggarwal-631757207/
